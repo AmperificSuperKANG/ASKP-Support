@@ -1,4 +1,10 @@
 Date: 11. Dec 2013
+Title: ASKP-Linaro-Grande
+Text: This version of Grande is built with
+<br>Linaro 4.8 toolchain
+<br>Installation is not recommended!
+
+Date: 11. Dec 2013
 Title: ASKP-Grande
 Text: New Kernel is out
 
